@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "latitude": 32.0625,
+        "longitude": 34.8125,
+        "unit": "Celsius"
+    },
+    "overall_statistics": {
+        "period_average": 19.86,
+        "period_max": 26.4,
+        "period_min": 13.7
+    },
+    "daily_breakdown": [
+        {
+            "date": "2026-05-01",
+            "avg_temp": 19.26,
+            "max_temp": 22.5,
+            "min_temp": 16.1
+        },
+        {
+            "date": "2026-05-02",
+            "avg_temp": 20.32,
+            "max_temp": 26.4,
+            "min_temp": 13.7
+        },
+        {
+            "date": "2026-05-03",
+            "avg_temp": 20.0,
+            "max_temp": 23.6,
+            "min_temp": 17.3
+        }
+    ]
+}
