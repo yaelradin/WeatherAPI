@@ -7,7 +7,7 @@ def get_weather_data(lat: float, lon: float, start_date: str, end_date: str):
 
     # הפרמטרים שאנחנו רוצים לשלוח
     params = {
-        "latitude": lat,
+        "latitude": lat,#רוחב
         "longitude": lon,
         "start_date": start_date,  # תאריך התחלה בפורמט YYYY-MM-DD
         "end_date": end_date,  # תאריך סיום בפורמט YYYY-MM-DD
